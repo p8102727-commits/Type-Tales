@@ -1,0 +1,6 @@
+{
+  "name": "TypeTales",
+  "description": "Every word shapes the adventure. A cozy cinematic typing adventure.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
